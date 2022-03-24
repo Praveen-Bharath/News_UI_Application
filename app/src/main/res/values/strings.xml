@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News UI Application</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="first_fragement">First Fragement</string>
+    <string name="second_fragement">Second Fragement</string>
+</resources>
